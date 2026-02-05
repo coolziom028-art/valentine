@@ -26,7 +26,7 @@ export default function Page() {
       "No proszę no!",
       "No weż no!",
       "Zmiana zdania?",
-      "Nie chci9ałabyś zmienić zdania?",
+      "Nie chciałabyś zmienić zdania?",
       "Czy to twoja ostateczna odpowiedź?",
       "Łamiesz mi serce ;(",
       "Czy to twoja ostateczna odpowiedź?",
