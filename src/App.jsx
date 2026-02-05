@@ -31,7 +31,7 @@ export default function Page() {
       "Łamiesz mi serce ;(",
       "Czy to twoja ostateczna odpowiedź?",
       "Łamiesz mi serce ;(",
-      "Proszeeee? :( Zrobie wszytsko",
+      "Proszeeee? :( Zrobie wszytsko"
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
